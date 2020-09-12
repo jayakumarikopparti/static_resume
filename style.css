@@ -1,0 +1,50 @@
+.card-view
+{
+	display: flex;
+	flex-direction: row;
+	width: 98%;
+	height: 500px;
+	margin: auto;
+	margin-top: 30px;
+	border:1px solid #000;
+	background-color: #e6e6e6;
+}
+img{
+	width: 50%;
+	border-radius: 50%;
+	margin-top: 15px;
+	}
+.card1
+{
+	width: 25%;
+	height: 90%;
+	border-radius: 5px;
+	margin: auto;
+	background-color: #fff;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	box-shadow: 4px 8px 10px #888888;
+}
+h3
+{
+	text-align: center;
+	width: 100%;
+	font-size: 20px;
+}
+button
+{
+	width: 40%;
+	height: 30px;
+	margin-top: 20px;
+	box-shadow: 4px 8px 10px #888888;
+	font-size: 15px;
+	border:0px;
+	background-color:#ddd;
+	font-family:  'Montserrat',sans-serif;
+
+}
+.profile{
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+}

@@ -1,0 +1,79 @@
+
+.main{
+	display: flex;
+	flex-direction: row;
+	margin-right: 40px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	height: 100vh;
+}
+.greybg{
+border:inset;
+height:100vh;
+width:800px;
+margin-left: 10px;
+margin-right: 10px;
+background-color: #E4E0DF;
+}
+.image{
+	text-align: center;
+}
+.yellowbg{
+border:inset;
+height:100vh;
+width:800px;
+margin-right: 2000px;
+margin-left: 05px;
+background-color: #E4E0DF  ;
+}
+.first{
+	text-align: center;
+	border: inset;
+	width: 400px;
+	height: 100px;
+	margin-top: 60px;
+	margin-left: 50px;
+}
+.fis{
+	text-align: center;
+	height: 50px;
+	width: 50px;
+}
+.second{
+	text-align: center;
+	border: inset;
+	width: 400px;
+	height: 150px;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+.sec{
+	height: 100px;
+	width: 100px;
+}
+.info{
+	margin-top: 30px;
+	margin-left: 20px;
+}
+.tab{
+	margin-top: 30px;
+	margin-left: 20px;
+}
+.profile{
+	height: 200px;
+	width: 200px;
+	margin-top: 20px;
+	border-radius: 50%;
+}
+.Achiv{
+	margin-top: 30px;
+	margin-left: 20px;
+}
+.certi{
+	margin-top: 30px;
+	margin-left: 20px;
+}
+.courses{
+	margin-left: 10px;
+}
+@media

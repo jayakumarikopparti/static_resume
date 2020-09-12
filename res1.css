@@ -9,6 +9,7 @@ height:100vh;
 width:800px;
 margin-left: 10px;
 margin-right: 10px;
+background-color: lightgray;
 }
 .image{
 	text-align: center;
@@ -18,6 +19,7 @@ border:inset;
 height:100vh;
 width:800px;
 margin-right: 200px;
+background-color: lightgray;
 }
 .first{
 	text-align: center;
